@@ -14,7 +14,11 @@ https://jennnyheo.github.io/todo-site/index.html
 - Also, user can use dark mode. When the dark-mode button clicked, the header will be changed into the dark color.
 
 - User can add tasks and moreover, can put the tasks into each project folder, which is expected high efficiency of time-management.
-<img src="https://user-images.githubusercontent.com/74107464/137589458-3487de18-68f4-47e4-b2fe-db4c694ef94d.jpg"  width="700" height="370">
 
-![화면 캡처 2021-09-05 144508](https://user-images.githubusercontent.com/74107464/137589458-3487de18-68f4-47e4-b2fe-db4c694ef94d.jpg)
-![화면 캡처 2021-09-05 144533](https://user-images.githubusercontent.com/74107464/137589460-387be223-63ba-465f-9dda-0a7c64290758.jpg)
+## HOW IT WORKS
+
+
+<img src="https://user-images.githubusercontent.com/74107464/137589458-3487de18-68f4-47e4-b2fe-db4c694ef94d.jpg"  width="500">
+<img src="https://user-images.githubusercontent.com/74107464/137589460-387be223-63ba-465f-9dda-0a7c64290758.jpg"  width="500">
+
+
