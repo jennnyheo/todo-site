@@ -19,6 +19,9 @@ https://jennnyheo.github.io/todo-site/index.html
 
 
 <img src="https://user-images.githubusercontent.com/74107464/137589458-3487de18-68f4-47e4-b2fe-db4c694ef94d.jpg"  width="500">
+
+- You can add your TODO TASK with 'ADD' button
+
 <img src="https://user-images.githubusercontent.com/74107464/137589460-387be223-63ba-465f-9dda-0a7c64290758.jpg"  width="500">
 
 
